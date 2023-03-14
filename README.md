@@ -1,8 +1,7 @@
 # barcode-detection-and-decoding
 
 <p> The whole process can be divided into two processes:<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. <ins><b>Barcode Detection</b></ins> : The process of detecting barcode from an image can be termed as Object Detection. In this case, object detection
-  is &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;done using YOLOv5.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. <ins><b>Barcode Detection</b></ins> : The process of detecting barcode from an image can be termed as Object Detection. In this &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;case, object detection is done using YOLOv5.
   <br>
   <div align="center">
   <img width="70%" height="70%" src="images/trial2.jpg" hspace="10">
@@ -14,8 +13,7 @@
   
   <br>
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. <ins><b>Barcode Detection</b></ins> : Once the barcode is detected, we crop the image and extract the ROI(region of interest) and convert RGB image 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to BGR image
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. <ins><b>Barcode Detection</b></ins> : Once the barcode is detected, we crop the image and extract the ROI(region of interest) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and convert RGB image to BGR image
  
  
    <div align="center">
